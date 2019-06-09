@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://35.241.95.97:8888/download?filename=%2Fwww%2Fwwwroot%2Fhttp%2FAPPS%2FX.cat%2012.0.ipa<!-- ipa的http地址 -->
+                    <string>https://qdhw2.leaderhero.com/new2/web/20190420/Pcat_v3.2.1(os9.0)_190420144551_app.tongbu.com.ipa<!-- ipa的http地址 -->
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -47,4 +47,3 @@
     </array>
 </dict>
 </plist>
-
